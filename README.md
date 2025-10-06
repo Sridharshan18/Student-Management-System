@@ -19,7 +19,7 @@ This is a simple web-based project built using **Java**, **Spring MVC**, and **S
 ## Screenshots
 
 ### 🏠 Home Page  
-![Home Page](/StudentManagement/images/Screenshot%202025-10-06%20214644.png)
+![Home Page](Student-Management-System/Student Management/images/Screenshot%202025-10-06%20214644.png)
 
 ---
 
