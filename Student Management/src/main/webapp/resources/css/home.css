@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+        background-color: #f8f9fa;
+    }
+    .navbar {
+        background-color: #0d6efd;
+    }
+    .navbar-brand {
+        color: white !important;
+        font-weight: bold;
+    }
+    .hero {
+        text-align: center;
+        padding: 100px 20px;
+    }
+    .hero h1 {
+        font-weight: 700;
+        color: #0d6efd;
+    }
+    .hero p {
+        font-size: 1.2rem;
+        color: #555;
+        margin-bottom: 30px;
+    }
+    .btn-main {
+        background-color: #0d6efd;
+        color: white;
+        padding: 10px 25px;
+        border-radius: 8px;
+        font-weight: 500;
+        transition: all 0.2s ease;
+    }
+    .btn-main:hover {
+        background-color: #084298;
+    }
