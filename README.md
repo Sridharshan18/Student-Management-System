@@ -19,17 +19,17 @@ This is a simple web-based project built using **Java**, **Spring MVC**, and **S
 ## Screenshots
 
 ### 🏠 Home Page  
-![Home Page](images/Screenshot%202025-10-06%20214644.png)
+![Home Page](StudentManagement/images/Screenshot%202025-10-06%20214644.png)
 
 ---
 
 ### 📋 Student List Page  
-![Student List](images/Screenshot%202025-10-06%20215311.png)
+![Student List](StudentManagement/images/Screenshot%202025-10-06%20215311.png)
 
 ---
 
 ### ➕ Add / ✏️ Update Student Page  
-![Add Student](images/Screenshot%202025-10-06%20215334.png)
+![Add Student](StudentManagement/images/Screenshot%202025-10-06%20215334.png)
 
 ---
 
